@@ -75,7 +75,7 @@ Config/steamvr_ue_editor_app.json
 Config/SteamVRBindings
 Platforms/HoloLens/Config/HoloLensEngine.ini
 .vsconfig
-Content/Abandoned_Cathedral\Foliage/Nanite_Foliage/Bush_1-2/Texture/T_trunk_N.uasset
+Content/Abandoned_Cathedral/Foliage/Nanite_Foliage/Bush_1-2/Texture/T_trunk_N.uasset
 Content/Abandoned_Cathedral/Terrain/texture/T_Sand_C_N.uasset
 Content/Survival_Character/Textures/BackPack/T_Backpack_Normal.uasset
 Content/Survival_Character/Textures/Jacket/T_Jacket_Normal.uasset
